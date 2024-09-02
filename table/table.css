@@ -1,5 +1,6 @@
 h3 {
-    color:darkcyan; background-color: burlywood;
+    color:darkcyan; background-color: burlywood; font-style: italic
+  }
   }
 {
     margin: 0;
@@ -45,3 +46,4 @@ h3 {
   tr:nth-child(odd) {
     background-color: #f2f2f2;
   }
+  
