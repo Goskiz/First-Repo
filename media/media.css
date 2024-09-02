@@ -10,6 +10,7 @@ h1 {
 .topnav {
   overflow: hidden;
   background-color: #333;
+  font-style: normal;
 }
 
 .topnav a {
@@ -42,5 +43,5 @@ svg {
   height: auto;
 }
 
-body {background : rgb(224, 207, 187);
+body {background : rgb(224, 207, 187); font-style: italic;
 }
