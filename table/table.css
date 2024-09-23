@@ -47,3 +47,5 @@ h3 {
     background-color: #f2f2f2;
   }
   
+  *{ padding-inline: 15PX;
+  }

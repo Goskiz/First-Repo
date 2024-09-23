@@ -120,3 +120,6 @@ img {
   margin-right: auto;
   width:200px ; height:180px
 }
+
+*{ padding-inline: 15PX;
+}

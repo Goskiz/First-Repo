@@ -77,6 +77,6 @@ h2 {
   body {background : rgb(224, 207, 187); font-style: italic
   }
   
-
-  
+  *{ padding-inline: 15PX;
+  }
 
